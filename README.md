@@ -26,7 +26,7 @@ Daily Journal is a web application that allows users to create, read, and manage
    ```
 2. Navigate to the project directory:
    ```bash
-   cd daily-journal
+   cd Blog-With-Database-final1/Blog-With-Database-final
    ```
 3. Install dependencies:
    ```bash
